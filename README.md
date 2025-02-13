@@ -10,7 +10,7 @@ Each file focuses on a different concept, making it easy to learn and revisit.
 
 ## 🚀 Running the Project
 1. Clone the repo  
-```git clone https://github.com/yourusername/react-typescript-playground.git```
+```git clone https://github.com/shivani091995/react-ts-learning.git```
 
 
 2. Install dependencies  
